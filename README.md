@@ -3,3 +3,5 @@ Recréation du jeu "Le verger" en Java avec une interprétation graphique person
 
 Particularité pour les fichier pour le corbeau : 
 les images ont le nom des coordonnées qu'il doivent prendre au sein d'un tableau sur l'interface graphique.
+
+Projet réaliser avec l'aide de [Baptiste LAFARGE](https://github.com/PolleEdouard)
